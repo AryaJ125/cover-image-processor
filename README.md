@@ -2,7 +2,7 @@
 
 一键把 3D 打印实拍图，处理成干净高级的封面图。
 
-![封面处理 Skill 介绍图](references/skill-intro-image.jpg)
+![封面处理 Skill 介绍图](references/skill-intro-image.webp)
 
 ## 这是什么
 
