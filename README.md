@@ -4,7 +4,6 @@
 
 ![封面处理 Skill 介绍图](references/skill-intro-image.webp)
 
-![封面制作提示词模板](references/prompt-template.webp)
 
 ## 这次升级了什么
 
