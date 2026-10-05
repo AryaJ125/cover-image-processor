@@ -1,2 +1,60 @@
-# cover-image-processor
-A ChatGPT Skill for turning 3D print product photos into clean studio-style cover images.
+# 封面处理 Skill
+
+一键把 3D 打印实拍图，处理成干净高级的封面图。
+
+![封面处理 Skill 介绍图](references/skill-intro-image.jpg)
+
+## 这是什么
+
+这是一个用于处理 3D 打印模型、手作产品、小摆件、胸针、收纳件等实拍图的 ChatGPT Skill。
+
+上传实拍图后，只要说一句：
+
+> 按封面处理这几张图片
+
+它就会自动按照固定的封面规则去处理，不需要每次重新写一长串提示词。
+
+## 默认能力
+
+- 保留模型原本的造型、颜色、结构和装配关系
+- 不随意改动主体
+- 背景统一成纯白色
+- 优化成更干净的高级棚拍实物质感
+- 保留真实材质、3D 打印层纹和自然落地阴影
+- 光线柔和且有方向感
+- 默认比例为 4:3
+- 多张图片会逐张单独处理，不自动拼图
+
+## 常用触发语句
+
+- 按封面处理这几张图片
+- 按封面处理
+- 做封面
+- 优化成封面图
+
+## 可扩展指令
+
+如果有特殊需求，也可以直接补充，例如：
+
+- 保留手部
+- 换成暖色渐变背景
+- 做成 3:4 竖版
+- 加标题
+
+Skill 会在保留核心规则的基础上按要求调整。
+
+## 适用场景
+
+- 3D 打印模型封面图
+- 产品图优化
+- 白底棚拍风展示图
+- 胸针/挂件/摆件细节展示
+- 多图统一风格处理
+
+## 文件说明
+
+- `SKILL.md`：Skill 主说明
+- `agents/openai.yaml`：Skill 配置
+- `references/intro-copy.md`：介绍文案
+- `references/skill-intro-image.jpg`：介绍配图
+- `skill.zip`：可直接分享/上传的 Skill 压缩包
