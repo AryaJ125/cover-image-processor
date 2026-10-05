@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cover Image Processor"
+  short_description: "Turn 3D-print photos into polished studio cover images"
+  brand_color: "#7DA4F8"
