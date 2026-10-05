@@ -1,8 +1,9 @@
-# 封面处理 Skill
+<img width="1086" height="1448" alt="3D打印猫耳胸针封面处理教程" src="https://github.com/user-attachments/assets/d53398b6-d491-4588-8140-0ae7e4cedcf1" /># 封面处理 Skill
 
 把 3D 打印实拍图处理成高级封面图，还能继续衍生出标题图、场景图、穿戴图、细节展示图。
 
-![Uploading 3D打印猫耳胸针封面处理教程.png…]()
+![Uploading 3D打印猫耳胸针封面处理教程.png…]
+
 
 
 ## 这次升级了什么
